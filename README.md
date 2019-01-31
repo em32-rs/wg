@@ -40,4 +40,4 @@ This group will, eventually, try to maintain:
 
 * A single HAL crate: em32-hal (to be merged from efm32gg-hal and imtomu-rs)
 
-* yet indeterminate Board Support Crates
+* yet indeterminate selected Board Support Crates
