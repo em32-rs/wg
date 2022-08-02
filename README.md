@@ -1,3 +1,9 @@
+**Warning** Many of the crates referenced here have not been updated in a long while.
+
+Consider looking at the [efm32-rs group](https://github.com/efm32-rs), which appears to be more active.
+
+---
+
 # Rust support for EM32 microprocessors
 
 This document describes the EM32 Rust group's purpose, scope and workings.
